@@ -14,6 +14,8 @@ console.log(budget-(Number(transportTexte)+Number(alimentationTexte)+Number(lois
 console.log(budget>(Number(transportTexte)+Number(alimentationTexte)+Number(loisirsTexte)));
 
 
+
+
 const Variationnom = 'Awa'; // Type : string
 const VariationBudget = 30000; // Type : number ; unité : FCFA
 const VariationtransportTexte = '12500'; // Type : string ; unité : FCFA
