@@ -1,7 +1,23 @@
 Cas Awa avec budget 50000 :
 > node .\depenses.js
 > À compléter avec la sortie réelle : total 38300, reste 11700, true
+Bilan deAwa
+budget :50000FCFA 
+trasport :12500FCFA
+alimentation :18300FCFA
+loisirs :7500FCFA 
+totaldepenses :38300FCFA
+budget restant :11700FCFA
+budget respecte :true
 
 Variation budget 30000 :
 > node .\depenses.js
 > À compléter avec la sortie réelle : reste -8300, false
+Bilan deAwa
+budget :30000FCFA 
+trasport :12500FCFA
+alimentation :18300FCFA
+loisirs :7500FCFA 
+totaldepenses :38300FCFA
+budget restant :-8300FCFA
+budget respecte :false
